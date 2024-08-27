@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1af0344f-1378-443e-8caa-7345fca612f4" name="Changes" comment="create examples with list and array list">
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmployeesEntrypoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/MatrixExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,7 @@
   "keyToString": {
     "Application.EmployeesEntrypoint.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MatrixExercise.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
